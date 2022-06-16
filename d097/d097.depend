@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654348915 source:/home/kagariet01/code/zero_judge/d097/main.cpp
+	<iostream>
+	<cmath>
+
+1654350423 source:/home/kagariet01/code/zero_judge/d097/my.cpp
+	<iostream>
+	<cmath>
+
