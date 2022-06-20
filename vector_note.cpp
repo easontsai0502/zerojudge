@@ -37,5 +37,14 @@ map.erase("key")				刪除該值
 map.count("key")				回傳(key)為"key"的個數
 search(a,b,c,d)					查找a~b是否有c~d		(abcd type可為vector,list......)
 
+
+set
+set<類型> 變數名				建立set(備註，set可自動排序)
+set.insert(插入值)				插入一個值(會自動排序)
+set.lower_bound(尋找值)			尋找該值位置(指標)(類似.find)，若有多項相同則回傳第一項，若無該值則回傳清單大小(set.size())
+next(set指標)					回傳該指標的下一個值
+prev(set指標)					回傳該指標的下一個值
+
+
 */
 
