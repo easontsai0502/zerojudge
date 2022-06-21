@@ -46,5 +46,12 @@ next(set指標)					回傳該指標的下一個值
 prev(set指標)					回傳該指標的下一個值
 
 
+queue
+
+
+priority_queue<int,vector<int>,greater<int>> vec;	建立一個queue，但小的始終最上面
+priority_queue <int,vector<int>,less<int> >q;		建立一個queue，但大的始終最上面
+
+
 */
 
